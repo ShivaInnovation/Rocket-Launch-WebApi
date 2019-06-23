@@ -1,0 +1,11 @@
+E:\Interview_Hands_On\WebApi\Rocket_Api\Rocket.Launch\Rocket.Launch.Models.Extensions\bin\Debug\Rocket.Launch.Models.Extensions.dll
+E:\Interview_Hands_On\WebApi\Rocket_Api\Rocket.Launch\Rocket.Launch.Models.Extensions\bin\Debug\Rocket.Launch.Models.Extensions.pdb
+E:\Interview_Hands_On\WebApi\Rocket_Api\Rocket.Launch\Rocket.Launch.Models.Extensions\bin\Debug\AutoMapper.dll
+E:\Interview_Hands_On\WebApi\Rocket_Api\Rocket.Launch\Rocket.Launch.Models.Extensions\bin\Debug\Rocket.Launch.Dto.dll
+E:\Interview_Hands_On\WebApi\Rocket_Api\Rocket.Launch\Rocket.Launch.Models.Extensions\bin\Debug\Rocket.Launch.Models.dll
+E:\Interview_Hands_On\WebApi\Rocket_Api\Rocket.Launch\Rocket.Launch.Models.Extensions\bin\Debug\Rocket.Launch.Dto.pdb
+E:\Interview_Hands_On\WebApi\Rocket_Api\Rocket.Launch\Rocket.Launch.Models.Extensions\bin\Debug\Rocket.Launch.Models.pdb
+E:\Interview_Hands_On\WebApi\Rocket_Api\Rocket.Launch\Rocket.Launch.Models.Extensions\bin\Debug\AutoMapper.xml
+E:\Interview_Hands_On\WebApi\Rocket_Api\Rocket.Launch\Rocket.Launch.Models.Extensions\obj\Debug\Rocket.Launch.Models.Extensions.csprojResolveAssemblyReference.cache
+E:\Interview_Hands_On\WebApi\Rocket_Api\Rocket.Launch\Rocket.Launch.Models.Extensions\obj\Debug\Rocket.Launch.Models.Extensions.dll
+E:\Interview_Hands_On\WebApi\Rocket_Api\Rocket.Launch\Rocket.Launch.Models.Extensions\obj\Debug\Rocket.Launch.Models.Extensions.pdb
