@@ -2,4 +2,3 @@ E:\Interview_Hands_On\WebApi\Rocket_Api\Rocket.Launch\Rocket.Launch.Models\bin\D
 E:\Interview_Hands_On\WebApi\Rocket_Api\Rocket.Launch\Rocket.Launch.Models\bin\Debug\Rocket.Launch.Models.pdb
 E:\Interview_Hands_On\WebApi\Rocket_Api\Rocket.Launch\Rocket.Launch.Models\obj\Debug\Rocket.Launch.Models.dll
 E:\Interview_Hands_On\WebApi\Rocket_Api\Rocket.Launch\Rocket.Launch.Models\obj\Debug\Rocket.Launch.Models.pdb
-E:\Interview_Hands_On\WebApi\Rocket_Api\Rocket.Launch\Rocket.Launch.Models\obj\Debug\Rocket.Launch.Models.csprojResolveAssemblyReference.cache

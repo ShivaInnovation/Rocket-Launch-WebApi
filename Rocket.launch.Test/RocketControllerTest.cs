@@ -32,11 +32,15 @@ namespace Rocket.launch.Test
             };
 
             
-            IRepository<Rocket.Launch.DbEntities.Entities.Rocket> repository = MockRepository.GenerateMock<IRepository<Rocket.Launch.DbEntities.Entities.Rocket>>();
-            repository.Stub(x => x.Get(id)).Return(rockets);
-            IRocketManager manager = (IRocketManager)repository;
+            //IRepository<Rocket.Launch.DbEntities.Entities.Rocket> repository = MockRepository.GenerateMock<IRepository<Rocket.Launch.DbEntities.Entities.Rocket>>();
+            //repository.Stub(x => x.Get(id)).Return(rockets);
+            //IRocketManager manager = (IRocketManager)repository;
 
-            var controller = new RocketController(manager);
+            MockRepository mocks = new MockRepository();
+            IRocketManager viewMock = mocks.Stub<IRocketManager>();
+
+
+            var controller = new RocketController(viewMock);
             controller.EnsureNotNull();
 
             //Act

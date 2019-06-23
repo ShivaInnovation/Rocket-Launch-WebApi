@@ -7,4 +7,3 @@ E:\Interview_Hands_On\WebApi\Rocket_Api\Rocket.Launch\Rocket.Launch.DbEntities\b
 E:\Interview_Hands_On\WebApi\Rocket_Api\Rocket.Launch\Rocket.Launch.DbEntities\bin\Debug\EntityFramework.SqlServer.xml
 E:\Interview_Hands_On\WebApi\Rocket_Api\Rocket.Launch\Rocket.Launch.DbEntities\obj\Debug\Rocket.Launch.DbEntities.dll
 E:\Interview_Hands_On\WebApi\Rocket_Api\Rocket.Launch\Rocket.Launch.DbEntities\obj\Debug\Rocket.Launch.DbEntities.pdb
-E:\Interview_Hands_On\WebApi\Rocket_Api\Rocket.Launch\Rocket.Launch.DbEntities\obj\Debug\Rocket.Launch.DbEntities.csprojResolveAssemblyReference.cache
