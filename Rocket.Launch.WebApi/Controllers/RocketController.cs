@@ -27,6 +27,17 @@ namespace Rocket.Launch.WebApi.Controllers
             return Ok(result);
         }
 
+        public HttpResponseMessage Get(int id)
+        {
+            var result = _manager.GetRockets(id);
+            if (result == null)
+            {
+                var response = Request.CreateResponse(HttpStatusCode.NotFound, "Rocket not found");
+            }
+            return Request.CreateResponse<Rocket.Launch.DbEntities.Entities.Rocket>(HttpStatusCode.OK, result);
+        }
+
+
         public IHttpActionResult Post(Rocket.Launch.DbEntities.Entities.Rocket rocket)
         {
             //Rocket table
