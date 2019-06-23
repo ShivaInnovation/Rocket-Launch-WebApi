@@ -32,7 +32,7 @@ namespace Rocket.Launch.WebApi.Controllers
             var result = _manager.GetRockets(id);
             if (result == null)
             {
-                var response = Request.CreateResponse(HttpStatusCode.NotFound, "Rocket not found");
+                var response = Request.CreateResponse(HttpStatusCode.NotFound, "Rocket data not found");
             }
             return Request.CreateResponse<Rocket.Launch.DbEntities.Entities.Rocket>(HttpStatusCode.OK, result);
         }
